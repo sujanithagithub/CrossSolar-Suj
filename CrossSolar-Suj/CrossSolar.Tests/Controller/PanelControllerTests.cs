@@ -26,7 +26,7 @@ namespace CrossSolar.Tests.Controller
             {
                 Brand = "Ameren",
                 Latitude = 22.123456,
-                Longitude = 88.1234567,
+                Longitude = 88.123456,
                 Serial = "PYHJ564456677UII"
             };
 
