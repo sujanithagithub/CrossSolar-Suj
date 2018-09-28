@@ -1,0 +1,17 @@
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\bin\Debug\netcoreapp2.0\CrossSolar.Tests.deps.json
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\bin\Debug\netcoreapp2.0\CrossSolar.Tests.runtimeconfig.json
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\bin\Debug\netcoreapp2.0\CrossSolar.Tests.runtimeconfig.dev.json
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\bin\Debug\netcoreapp2.0\CrossSolar.Tests.dll
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\bin\Debug\netcoreapp2.0\CrossSolar.Tests.pdb
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\bin\Debug\netcoreapp2.0\CrossSolar.dll
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\bin\Debug\netcoreapp2.0\CrossSolar.pdb
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\obj\Debug\netcoreapp2.0\CrossSolar.Tests.csprojAssemblyReference.cache
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\obj\Debug\netcoreapp2.0\CrossSolar.Tests.csproj.CoreCompileInputs.cache
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\obj\Debug\netcoreapp2.0\CrossSolar.Tests.AssemblyInfoInputs.cache
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\obj\Debug\netcoreapp2.0\CrossSolar.Tests.AssemblyInfo.cs
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\obj\Debug\netcoreapp2.0\CrossSolar.Tests.csproj.CopyComplete
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\obj\Debug\netcoreapp2.0\CrossSolar.Tests.dll
+C:\Users\E083581\Desktop\CrossSolar-Suj\CrossSolar.Tests\obj\Debug\netcoreapp2.0\CrossSolar.Tests.pdb
